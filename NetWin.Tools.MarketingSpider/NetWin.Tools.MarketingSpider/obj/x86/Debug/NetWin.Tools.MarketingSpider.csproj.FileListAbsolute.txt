@@ -1,0 +1,16 @@
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.ProjectInstaller.resources
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\NetWin.Tools.MarketingSpider.exe.config
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\NetWin.Tools.MarketingSpider.exe
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\NetWin.Tools.MarketingSpider.pdb
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\Shove.Components.dll
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\Shove.dll
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\office.dll
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\office.xml
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.exe
+E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.pdb
