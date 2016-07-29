@@ -14,3 +14,6 @@ E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\D
 E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\office.xml
 E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.exe
 E:\LocalProjects\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.pdb
+E:\GitHub\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\bin\Debug\NetWin.Tools.MarketingSpider.exe.config
+E:\GitHub\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.exe
+E:\GitHub\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\NetWin.Tools.MarketingSpider\obj\x86\Debug\NetWin.Tools.MarketingSpider.pdb
